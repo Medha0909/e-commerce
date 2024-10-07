@@ -62,7 +62,7 @@ export default function Buy() {
 	  let config = {
 		method: "post",
 		maxBodyLength: Infinity,
-		url: "http://localhost:8080/payment/orders",
+		url: "https://dashboard.render.com/web/srv-cs211bo8fa8c73d6jnh0/payment/orders",
 		headers: {
 		  'Content-Type': 'application/json'
 		},
@@ -115,7 +115,7 @@ export default function Buy() {
   
 	  const paymentId = e.target.paymentId.value;
   
-	  axios.get(`http://localhost:8080/payment/payment/${paymentId}`)
+	  axios.get(`https://dashboard.render.com/web/srv-cs211bo8fa8c73d6jnh0/payment/payment/${paymentId}`)
       .then((response) => {
 		console.log(response.data);
 		setResponseState(response.data)
