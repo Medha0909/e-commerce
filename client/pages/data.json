@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "headline": "Ha-ppiness Is Homemade",
+    "subheadline":"Bless the food before us,The family beside us,and the love between us ",
+    "text1": "“Good kitchen equipment is expensive, but most items last a lifetime and will pay for themselves over and over again.”",
+    "img":"https://i.pinimg.com/originals/2e/f6/e3/2ef6e34d7553c163c32684b057b029d0.gif",
+    "ctaButtons": [
+      {
+        "text": "Login",
+        "link": "/download"
+      },
+      {
+        "text": "Register",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Eco-Friendly",
+      "icon": "https://via.placeholder.com/100"
+    },
+    {
+      "title": "Sustainable",
+      "icon": "https://via.placeholder.com/100"
+    },
+    {
+      "title": "ISO certified",
+      "icon": "https://via.placeholder.com/100"
+    }
+  ],
+  "gallary": [
+    {
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7pIoboM923NLP7gHsREu3PKPWbsmS7pj0A&s"
+    },
+    {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-8fE_GqrH-P2SCxAPuA0TEyng2JHOA_MXQ&s"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB04vwW90FBao1PcPqb2h4VwCLIJivxaLeiA&s"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmT0Pr550k78Lx0d2aBf8aLzDJENGN21AZKw&s"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQmijH5z5-sIKvhvJWLJVjd0UnQQAS88dVg&s"
+  },
+  {
+    "img":"https://mycatshop.in/wp-content/uploads/2023/02/ezgif.com-gif-maker-29.webp"
+  },
+  {
+    "img":"https://mycatshop.in/wp-content/uploads/2023/02/ezgif.com-gif-maker-28.webp"
+  },
+  {
+    "img":"https://mycatshop.in/wp-content/uploads/2023/02/ezgif.com-gif-maker-27.webp"
+  }
+  ],
+  "testimonials": [
+    {
+      "name": "Geet Bhardwaj",
+      "feedback": "Seems to be good, The gloss is less, tone is lighter than the kansa products available in northern India, may be because of different additives used. The thalis are thin and light weight, suggest sellers to smoothen the edges of at least baby set items for safety. Thalis bend , they should be thicker than what's been made at present as kansa is brittle. Glasses seem to be machine made but are ok as long as its pure kansa.",
+      "avatar": "https://kansawalas.com/cdn/shop/files/Cookware_Kitchenware_64620f72-b6d4-440e-8f26-cf2c8aef60c3.jpg?v=1727012255&width=400"
+    },
+    {
+      "name": "Shamita Pandit",
+      "feedback": "Well, eating food is enjoyable and healthy for mind , body due to rejuvenating properties of pure Kansa . The Customer support system is also good as they remove all difficulties in delivery of articles ",
+      "avatar": "https://kansawalas.com/cdn/shop/files/DSC_1332.jpg?v=1723188287"
+    },
+    {
+      "name": "Rakhi Kumar",
+      "feedback": "we received the package, it was very carefully packed with lots of respect to the product. its exactly same as the website picture. we love the product thoroughly and we have started using it at home.",
+      "avatar": "https://kansawalas.com/cdn/shop/files/EMP02909.jpg?v=1723125858"
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Milton Steel Jar",
+      "img":"https://sarathykitchenware.com/cdn/shop/products/419A7ndpXiL_720x720.jpg?v=1620885343",
+      "content":"Multipurpose jar to store cookies, snacks, food grains, and dry fruits. ",
+      "price": "Buy Now",
+      "age":"510.00"
+    },
+    {
+    "name": "Milton Steel Casseroles",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/41l_8jpMGVL_900x860.jpg?v=1624942277",
+    "content":"Contemporary brushed-steel finish & stylish design.",
+    "price": "Buy Now",
+    "age":"3352.00"
+  },
+  {
+    "name": "Milton Steel Bottle",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/313WkAAY8YL_540x540.jpg?v=1620737352",
+    "content":"Single wall stainless steel fridge bottle",
+    "price": "Buy Now",
+    "age":"461.00"
+  },
+  {
+    "name": "Hawkins Compatible Tpan ",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/HawkinsTriplysaucpansst10@2x.jpg?v=1621532562",
+    "content":"Ideal for making tea or coffee - up to 4 cups at a time for 1L",
+    "price": "Buy Now",
+    "age":"1080.00"
+  },
+  {
+    "name": "Prestige Pressure Cooker",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/Prestige_Svachh_Deluxe_Alpha_2.0_Litre_Stainless_Steel_Pressure_Cooker-1_3a4f7f2c-0073-40d1-9818-f408b548c5e8@2x.jpg?v=1617643738",
+    "content":"This is the top-end variant of Steel Cookers from Prestige and has an alpha base.",
+    "price": "Buy Now",
+    "age":"2367.00"
+  },
+  {
+    "name": "JVL Stainless Steel Cubic Container",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/JVLStainlessSteelKitchenStorageCubicStoreTinwithCThruLid_Size-L-20cmxB-20cmxH-15.5cm_Capacity-4.5Litres-0@2x.jpg?v=1620114719",
+    "content":"Square Shaped Storage Containers from JVL.",
+    "price": "Buy Now",
+    "age":"960.00"
+  },
+  {
+    "name": "Stainless Steel Two-Tone Saucepot",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/induction_friendly_two_tone_saucepot_16_cm@2x.jpg?v=1620199416",
+    "content":"Extra thick stainless steel body for better durability",
+    "price": "Buy Now",
+    "age":"790.00"
+  },
+  {
+    "name": "Milton Steel Royal 3/4 Lunch Box",
+    "img":"https://sarathykitchenware.com/cdn/shop/products/MiltonRoyal3InsulatedSteelTiffinBox_1.8l_SteelPlain_540x542.jpg?v=1620823696",
+    "content":"Three or Four Interlocking Containers in a Portable, Sturdy Case",
+    "price": "Buy Now",
+    "age":"1465.00"    
+  }
+  ]
+}
