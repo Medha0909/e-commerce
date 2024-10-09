@@ -45,22 +45,6 @@ background-color:#161617;
   .white-section{
     background-color: #fff;
   }
-  .download-button{
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    cursor: pointer;
-  }
-  .kreep{
-    animation: kreep 0.7s ease 2s infinite alternate;
-
-  }
-  @keyframes kreep {
-    0% {-webkit-transform: scale(1.1,.9);
-        transform: scale(1.1,.9);}
-   50% { -webkit-transform: scale(.9,1.1) translateY(-.5rem)}
-   70% { -webkit-transform: scale(1);
-         transform: scale(1);}
-}
   .motion{
     background:linear-gradient(90deg, #F87516 22%, #5E11FF 55%); 
     -webkit-background-clip: text; 
@@ -88,7 +72,11 @@ background-color:#161617;
   }
   .imgs{
     height: 15rem;
-    width: 30rem;
+    width: 30rem; 
+    transition: transform 0.3s ease-in-out;
+  }
+  .imgs:hover{
+    transform: scale(0.7);
   }
   .imgsaa{
     margin-left: 25px;
@@ -131,7 +119,6 @@ background-color:#161617;
   color:#f4f4f4;
 
   }
-
   .a3{
     position:absolute;
   margin-left: -16px;
@@ -171,6 +158,10 @@ background-color:#161617;
  }
  .card43{
   width:270px;
+  transition: transform 0.3s ease-in-out;
+ }
+ .card43:hover{
+  transform: scale(0.7);
  }
  .cd41img{
   padding-left: 50px;
