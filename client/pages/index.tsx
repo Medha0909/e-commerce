@@ -32,7 +32,7 @@ export default function Home() {
           <h3 style={{color:"#B4AEC4",paddingBottom:"20px",fontSize:"25px",fontFamily: "Orbitron, sans-serif",fontOpticalSizing: "auto",fontWeight:"800",fontStyle: "normal"}} className="big-heading">{data.hero.subheadline}</h3>
           <p style={{color:"#B4AEC4",fontSize:"20px",fontFamily: "Orbitron, sans-serif",fontOpticalSizing: "auto",fontWeight:"500",fontStyle: "normal"}} className="big-heading">{data.hero.text1}</p>
           <Link href="./login"><button type="button" style={{background:"#7AA93C",marginRight:"20px",marginTop:"20px",width:"120px"}}className="btn btn-dark btn-lg download-button"><FaUserLarge className="a2" /><span className="ctabutton">{data.hero.ctaButtons[0].text}</span></button></Link>
-          <button type="button" style={{background:"#7AA93C",marginTop:"20px",width:"132px"}}className="btn btn-dark btn-lg download-button"><a className="a3" href="#"><FaUserLarge /></a><span className="ctabuttons">{data.hero.ctaButtons[1].text}</span></button>
+          <Link href="./register"> <button type="button" style={{background:"#7AA93C",marginTop:"20px",width:"132px"}}className="btn btn-dark btn-lg download-button"><FaUserLarge className="a2" /><span className="ctabuttons">{data.hero.ctaButtons[1].text}</span></button></Link>
         </div>
         <div className="col-lg-6 hero">
         <img className="heroimages"style={{height:"500px",width:"550px",float:"right"}} src={data.hero.img} alt="..."/>
