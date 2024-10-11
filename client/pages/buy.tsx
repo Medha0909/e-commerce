@@ -80,7 +80,7 @@ export default function Buy() {
 	}
   
 	const handleRazorpayScreen = async(amount:any) => {
-	  const res = await loadScript("https://e-commerce-five-lovat.vercel.app//checkout.razorpay.com/v1/checkout.js")
+	  const res = await loadScript("https://checkout.razorpay.com/v1/checkout.js")
   
 	  if (!res) {
 		alert("Some error at razorpay screen loading")
